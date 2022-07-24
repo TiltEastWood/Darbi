@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEUMtt4McwyA7ZZJOOMlS6uL7tUpPIr98nSugzJQAPHC1N729L3Au0PIGZzX2vOUbQU/FE3SkgcSezv3srI4nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Markuss\\Desktop\\New folder\\Darbi\\csharp-basics\\exercises\\Arithmetic\\SumAverageRunningInt\\SumAverageRunningInt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Markuss\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

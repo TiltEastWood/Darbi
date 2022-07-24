@@ -1,0 +1,8 @@
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.pdb
