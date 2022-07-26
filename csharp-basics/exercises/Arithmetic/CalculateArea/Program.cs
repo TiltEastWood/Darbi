@@ -25,11 +25,6 @@ namespace CalculateArea
                     break;
                 case 4:
                     return;
-
-
-
-
-
             }
             Console.ReadKey();
         }
