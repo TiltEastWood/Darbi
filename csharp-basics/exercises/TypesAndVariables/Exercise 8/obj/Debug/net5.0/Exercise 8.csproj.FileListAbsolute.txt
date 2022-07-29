@@ -1,0 +1,16 @@
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.exe
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.deps.json
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.runtimeconfig.json
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.runtimeconfig.dev.json
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.dll
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\bin\Debug\net5.0\Exercise 8.pdb
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.csproj.AssemblyReference.cache
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.AssemblyInfoInputs.cache
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.AssemblyInfo.cs
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.csproj.CoreCompileInputs.cache
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.dll
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\refint\Exercise 8.dll
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.pdb
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\Exercise 8.genruntimeconfig.cache
+C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise 8\obj\Debug\net5.0\ref\Exercise 8.dll

@@ -6,17 +6,15 @@ namespace VariablesAndNames
     {
         private static void Main(string[] args)
         {
-            
-
             var cars = 100;
             var seatsInACar = 4.0;
             var drivers = 28;
             var passengers = 90;
             var carsNotDriven = cars - drivers;
-            var carpoolCapacity = (seatsInACar - 1)*drivers;
+            var carpoolCapacity = (seatsInACar - 1) * drivers;
             var averagePassengersPerCar = passengers / (double)drivers;
             var seatsInCarWithoutDriver = seatsInACar - 1;
-            
+
             Console.WriteLine("There are " + cars + " cars available.");
             Console.WriteLine("There are only " + drivers + " drivers available.");
             Console.WriteLine("There will be " + carsNotDriven + " empty cars today.");

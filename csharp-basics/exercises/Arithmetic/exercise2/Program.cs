@@ -25,7 +25,6 @@ namespace exercise2
             {
                 Console.WriteLine("Odd Number");
             }
-            
         }
     }
 }
