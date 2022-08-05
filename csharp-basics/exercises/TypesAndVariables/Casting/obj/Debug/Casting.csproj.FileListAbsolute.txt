@@ -1,8 +1,0 @@
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe.config
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.exe
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\bin\Debug\Casting.pdb
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csproj.SuggestedBindingRedirects.cache
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.exe
-C:\Users\Markuss\Desktop\Darbi\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\Casting\obj\Debug\Casting.pdb
