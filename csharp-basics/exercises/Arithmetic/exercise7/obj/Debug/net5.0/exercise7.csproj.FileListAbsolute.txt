@@ -1,0 +1,16 @@
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.exe
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.deps.json
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.runtimeconfig.json
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.runtimeconfig.dev.json
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.dll
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\bin\Debug\net5.0\exercise7.pdb
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.csproj.AssemblyReference.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.AssemblyInfoInputs.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.AssemblyInfo.cs
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.dll
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\refint\exercise7.dll
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.pdb
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\exercise7.genruntimeconfig.cache
+C:\Users\Markuss\Desktop\New folder\Darbi\csharp-basics\exercises\Arithmetic\exercise7\obj\Debug\net5.0\ref\exercise7.dll
