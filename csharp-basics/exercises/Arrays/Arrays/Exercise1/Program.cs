@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Exercise1
 {
@@ -7,14 +8,14 @@ namespace Exercise1
         //TODO: Write a C# program to sort a numeric array and a string array.
         private static void Main(string[] args)
         {
-            int[] myArray1 = 
+            int[] myArray1 = new int[]
             {
                 1789, 2035, 1899, 1456, 2013,
                 1458, 2458, 1254, 1472, 2365,
                 1456, 2165, 1457, 2456
             };
 
-            string[] myArray2 = 
+            string[] myArray2 = new string[]
             {
                 "Java",
                 "Python",
@@ -23,17 +24,18 @@ namespace Exercise1
                 "C Programming",
                 "C++"
             };
-            
+
+            Convert.ToString(myArray1);
             
             //fixme
             Console.WriteLine("Original numeric array : " + string.Join("," , myArray1));
             //........... //Sort array
-            
-            Console.WriteLine("Sorted numeric array : " + string.Join("," , myArray1));
+            Array.Sort(myArray1);
+            Console.WriteLine("Sorted numeric array : " + string.Join(",", myArray1));
     
             Console.WriteLine("Original string array : " + string.Join("," , myArray2));
             //......... //Sort array
-            
+            Array.Sort(myArray2);
             Console.WriteLine("Sorted string array : " + string.Join("," , myArray2));
             //*/
             Console.ReadKey();
