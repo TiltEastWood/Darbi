@@ -1,26 +1,26 @@
 # Exercises
 
-## Exercise #1
+## Exercise #1 done
 
 See [Exercise1](./Arrays/Exercise1)
 
-## Exercise #2
+## Exercise #2 Done
 
 See [Exercise2](./Arrays/Exercise2)
 
-## Exercise #3
+## Exercise #3 done
 
 See [Exercise3](./Arrays/Exercise3)
 
-## Exercise #4
+## Exercise #4 done
 
 See [Exercise4](./Arrays/Exercise4)
 
-## Exercise #5
+## Exercise #5 done
 
 See [Exercise5](./Arrays/Exercise5)
 
-## Exercise #6
+## Exercise #6 Done
 
 Write a program that creates an array of ten integers.
 It should put ten random numbers from 1 to 100 in the array.
@@ -39,7 +39,7 @@ Array 1: 45 87 39 32 93 86 12 44 75 -7
 Array 2: 45 87 39 32 93 86 12 44 75 50
 ```
 
-## Exercise #7
+## Exercise #7 Done
 
 See [TicTacToe](./Arrays/TicTacToe)
 
@@ -67,7 +67,7 @@ Code an interactive, two-player game of Tic-Tac-Toe. You'll use a two-dimensiona
 The game is a tie.
 ```
 
-## Exercise #8
+## Exercise #8 Done
 
 Write a program to play a word-guessing game like Hangman.
 
@@ -176,7 +176,7 @@ YOU GOT IT!
 Play "again" or "quit"? quit
 ```
 
-## Exercise #9
+## Exercise #9 Done
 Create a function that takes an array of names and returns an array where only the first letter of each name is capitalized.
 # Examples:
 ```
@@ -190,11 +190,11 @@ Hints:
 - Don't change the order of the original array.
 - Notice in the second example above, "MABELLE" is returned as "Mabelle".
 
-## Exercise #10
+## Exercise #10 Done
 Create a function that takes an array of positive and negative numbers. 
 Return an array where the first element is the count of positive numbers and the second element is the sum of negative numbers.
 
-# Examples
+# Examples 
 ```
 CountPosSumNeg([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15]) ➞ [10, -65]
 // There are a total of 10 positive numbers.
@@ -211,7 +211,7 @@ CountPosSumNeg([]) ➞ []
 - Cast sum to int, don't mind the remaining decimal places.
 - 0 is not positive.
 
-## Exercise #11
+## Exercise #11 Done
 You need to find the word "Nemo", and return a string like this: "I found Nemo at [the order of the word you find Nemo]!".
 If you can't find Nemo, return "I can't find Nemo :(".
 

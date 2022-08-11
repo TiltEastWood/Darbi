@@ -14,6 +14,14 @@ namespace exercise6
             {
                 Numbers1[i] = rnd.Next(0, 100);
             }
+
+            Array.Copy(Numbers1, Numbers2, Numbers1.Length);
+            Numbers1[Numbers1.Length -1] = -7;
+
+            for (int i = 0; i < Numbers1.Length; i++)
+            {
+                Console.WriteLine(Numbers1[i]);
+            }
         }
     }
 }
