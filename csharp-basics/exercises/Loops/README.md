@@ -1,22 +1,22 @@
 # Exercises
 
-## Exercise #1
+## Exercise #1 Done
 
 See [Exercise1](./Loops/Exercise1)
 
-## Exercise #2
+## Exercise #2 Done
 
 See [Exercise2](./Loops/Exercise2)
 
-## Exercise #3
+## Exercise #3 Done
 
 Write a program that asks which number position out of 20 random numbers you want to know. 
 
-## Exercise #4
+## Exercise #4 Done
 
 See [Exercise4](./Loops/Exercise4)
 
-## Exercise #5
+## Exercise #5 Done
 
 Write a program that asks the user to enter two words. The program then prints out both words on one line.
 The words will be separated by enough dots so that the total line length is 30:
@@ -32,7 +32,7 @@ turtle....................153
 This could be used as part of an index for a book. To print out the dots, use Console.WriteLine(".")
  inside a loop body.
 
-## Exercise #6
+## Exercise #6 Done
 
 Write a console program in a class named FizzBuzz that prompts the user for an integer,
 then prints all of the numbers from one to that integer, separated by spaces.
@@ -54,7 +54,7 @@ Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz B
 Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz 
 ```
 
-## Exercise #7
+## Exercise #7 Done
 
 Write a console program in a class named Piglet that implements a simple 1-player dice game 
 called "Piglet" (based on the game "Pig"). The player's goal is to accumulate as many points 
@@ -86,7 +86,7 @@ Roll again? n
 You got 10 points.
 ```
 
-## Exercise #8
+## Exercise #8 Done
 
 Write a console program in a class named *AsciiFigure* that draws a figure of the following form,
 using for loops.
@@ -120,7 +120,7 @@ And the figure below has a size of 7:
 ************************************************
 ```
 
-## Exercise #9
+## Exercise #9 Done
 
 Write a console program in a class named *RollTwoDice* that prompts the user for a desired sum,
 then repeatedly rolls two six-sided dice (using a Random object to generate 
@@ -137,7 +137,7 @@ Desired sum: 9
 6 and 3 = 9
 ```
 
-## Exercise #10
+## Exercise #10 Done
 
 Write a console program in a class named NumberSquare that prompts the user for two integers,
 a min and a max, and prints the numbers in the range from min to max inclusive in a square pattern.
@@ -156,7 +156,7 @@ Max? 5
 51234
 ```
 
-## Exercise #11
+## Exercise #11 Done
 # Reverse the Case
 Given a string, create a function to reverse the case. All lower-cased letters should be upper-cased, and vice versa.
 

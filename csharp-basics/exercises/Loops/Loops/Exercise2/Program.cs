@@ -6,18 +6,21 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            int i, n;
+            int i; 
+            int n;
             
+
             Console.WriteLine("Input number of terms : ");
             n = Convert.ToInt32(Console.ReadLine());
-            /*
-            todo - complete loop to multiply i with itself n times, it is NOT allowed to use Math.Pow()
-            */
-            for (i = 0; i < n; i++)
-            {
-            }
+            i = Convert.ToInt32(Console.ReadLine());
+            
+            int result = i;
 
-            Console.ReadKey();
+            for (int z = 1; z < n; z++)
+            {
+                result = result * i;
+            }
+            Console.WriteLine(result);
         }
     }
 }
