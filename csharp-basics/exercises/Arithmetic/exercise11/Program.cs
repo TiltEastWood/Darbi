@@ -21,7 +21,7 @@ namespace exercise11
             if (inputNumber % sum == 0) 
             {
                 int Harshad = inputNumber / sum;
-                if (CheckPrime(Harshad) == true)
+                if (IsPrime(Harshad) == true)
                 {
                     Console.WriteLine("M");
                     return;
@@ -32,7 +32,7 @@ namespace exercise11
             Console.WriteLine("Neither");
             return;
         }
-        static bool CheckPrime(int number)
+        static bool IsPrime(int number)
         {
             for (int i = 2; i < number; i++)
             {

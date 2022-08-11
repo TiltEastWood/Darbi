@@ -16,6 +16,7 @@ namespace GravityCalculator
             Console.WriteLine("The object's position after " + fallingTime + " seconds is " + finalPosition + " m.");
             Console.ReadKey();
         }
+
         static double CalculateFinalPosition(double fallingTime, double initialPosition, double initialVelocity, double gravity)
         {
             double result = 0;

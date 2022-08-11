@@ -3,17 +3,6 @@ using System.Collections.Generic;
 
 namespace exercise7
 {
-    public class Employee
-    {
-        public int hours; 
-        public double payRate; 
-        public string name; 
-        public double wage; 
-        public void Display()
-        {
-            Console.WriteLine($"Employee Name {name} Pay Rate {payRate} Wage {wage}");
-        }
-    }
     class Program
     {
         static void wagecalculator(Employee employee)

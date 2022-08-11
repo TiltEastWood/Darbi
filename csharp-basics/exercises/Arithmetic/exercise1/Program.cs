@@ -17,7 +17,7 @@ namespace exercise1
                 Console.WriteLine("True");
 
             }
-            else if (summOrDiff(Number1, Number2) == true)
+            else if (IsResault15(Number1, Number2) == true)
             {
                 Console.WriteLine("True");
             }
@@ -26,18 +26,9 @@ namespace exercise1
                 Console.WriteLine("False");
             }
         }
-        static bool summOrDiff(int num1, int num2)
+        static bool IsResault15(int num1, int num2)
         {
-            bool result = false;
-            if (num1 + num2 == 15)
-            {
-                result = true;
-            }else if (num1 - num2 == 15 || num2 - num1 == 15)
-            {
-                result = true;
-            }
-                
-                return result;
+            return (num1 + num2 == 15) || (num1 - num2 == 15 || num2 - num1 == 15);   
         }
     }
 }

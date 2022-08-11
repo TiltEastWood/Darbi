@@ -12,6 +12,7 @@ namespace exercise2
             CheckOddEven(randomnumber);
             Console.WriteLine("Bye!");
         }
+
         static void CheckOddEven(int number)
         {
             int randomnumber = number;
