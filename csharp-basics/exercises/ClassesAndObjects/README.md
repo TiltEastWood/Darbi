@@ -1,6 +1,6 @@
 # Exercises
 
-## Exercise #1
+## Exercise #1 Done
 
 Create a class Product that represents a product sold in a shop.
 A product has a price, amount and name.
@@ -103,7 +103,7 @@ Write the method so that it updates the instance variables each time it is calle
 Write a testing class with a Main() Method that constructs a car and calls FillUp()
 and CalculateConsumption() a few times.
 
-## Exercise #3
+## Exercise #3 Done
 
 For this exercise, you will design a set of classes that work together to simulate a car's fuel gauge
 and odometer. The classes you will design are the following:
@@ -132,7 +132,7 @@ Demonstrate the classes by creating instances of each. Simulate filling the car 
 and then run a loop that increments the odometer until the car runs out of fuel.
 During each loop iteration, print the car’s current mileage and amount of fuel.
 
-## Exercise #4
+## Exercise #4 Done
 
 The class Movie is started below. An instance of class Movie represents a film. 
 This class has the following three class variables:
@@ -150,11 +150,11 @@ This class has the following three class variables:
  and returns a new array of only those movies in the input array with a rating of "PG".
  You may assume the input array is full of Movie instances. The returned array may be empty.
  4. Write a piece of code that creates an instance of the class Movie:
-    - with the title “Casino Royale”, the studio “Eon Productions” and the rating “PG­13”;
+    - with the title ,"Casino Royal" the studio “Eon Productions” and the rating “PG­13”;
     - with the title “Glass”, the studio “Buena Vista International” and the rating “PG­13”;
     - with the title “Spider-Man: Into the Spider-Verse”, the studio “Columbia Pictures” and the rating “PG”.
 
-## Exercise #5
+## Exercise #5 Done
 
 See [EnergyDrinks](./EnergyDrinks)
 
@@ -166,7 +166,7 @@ Write a program that displays the following:
  - The approximate number of customers in the survey who purchased one or more energy drinks per week
  - The approximate number of customers in the survey who prefer citrus flavored energy drinks
 
-## Exercise #6
+## Exercise #6 Done
 
 The questions in this exercise all deal with a class Dog that you have to program from scratch. 
 
@@ -195,7 +195,7 @@ The questions in this exercise all deal with a class Dog that you have to progra
     - referenceToCoco.HasSameMotherAs(referenceToRocky). 
  Show that the new method works in the DogTest main method.
 
-## Exercise #7
+## Exercise #7 
 
 Design a SavingsAccount class that stores a savings account’s annual interest rate and balance.
 
@@ -234,13 +234,11 @@ Enter amount deposited for month: 3: 4050
 Enter amount withdrawn for 3: 2334
 Enter amount deposited for month: 4: 3450
 Enter amount withdrawn for 4: 2340
-Total deposited: $7,830.00
-Total withdrawn: $5,777.00
-Interest earned: $29,977.72
-Ending balance: $42,030.72
+
+
 ```
 
-## Exercise #8
+## Exercise #8 Done
 
 Write a method named SwapPoints that accepts two Points as parameters and swaps their x/y values.
 
@@ -261,7 +259,7 @@ The output produced from the above code should be:
 (5, 2)
 ```
 
-## Exercise #9
+## Exercise #9 Done
 
 Finish [BankAccount](./BankAccount)
 
@@ -287,7 +285,7 @@ For example, if the same object had a balance of -17.5, your method should retur
 Benson, $17.50
 ```
 
-## Exercise #10
+## Exercise #10 Done
 
 See [VideoStore](./VideoStore)
 
@@ -334,7 +332,7 @@ Summary of design specs:
     - the average rating,
     - and whether it is checked out or on the shelves.
 
-## Exercise #11
+## Exercise #11 Done
 
 See [Account](./Account)
 
@@ -397,7 +395,7 @@ After completing the above, make sure that your main method does the following:
   - Transfers 50.0 from account A to account B
   - Transfers 25.0 from account B to account C
 
-  ## Exercise #12
+  ## Exercise #12 Done
   Multiple Choice Tests
   Your task is to write a program which allows teachers to create a multiple choice test in a class called Testpaper and also be able to assign a minimum pass mark. 
   The Testpaper class should implement the ITestpaper interface given in the code template which has the following properties:
@@ -431,7 +429,7 @@ After completing the above, make sure that your main method does the following:
   student2.TestsTaken ➞ { "Chemistry: Failed! (25%)", "Computing: Failed! (43%)" }
   ```
 
-  ## Exercise #13
+  ## Exercise #13 Done
   Fruit Smoothie
 
   Create a class Smoothie and do the following:
@@ -466,7 +464,7 @@ s2.GetPrice() ➞ "£8.75"
 s2.GetName() ➞ "Blueberry Raspberry Strawberry Fusion"
 ```
 
-## Exercise #14
+## Exercise #14 Done
 # The day in dutch
 Write a class Date.
 Write a method that when passed a date as year/month/ day and returns the date's weekday name in the Dutch culture. The culture identifier to use is "nl-NL". Not "nl-BE".

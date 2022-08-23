@@ -39,6 +39,9 @@ namespace VideoStore
                     case 4:
                         ListInventory();
                         break;
+                    case 5:
+                        TakeUsersRating();
+                        break;
                     default:
                         return;
                 }
@@ -77,6 +80,17 @@ namespace VideoStore
             Console.WriteLine("Enter movie name");
             string movieName = Console.ReadLine();
             _videoStore.ReturnVideo(movieName);
+        }
+
+        private static void TakeUsersRating()
+        {
+            Console.WriteLine("enter movie name");
+            string mmovieName = Console.ReadLine();
+
+            Console.WriteLine("Enter rating");
+            int rating = Convert.ToInt32(Console.ReadLine());
+
+            _videoStore.TakeUsersRating(rating, mmovieName);
         }
     }
 }
