@@ -1,33 +1,34 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace DragRace
 {
-    public class Audi : Car
+    internal class Subaru : Car
     {
         private string Name;
         private int currentSpeed = 0;
 
-        public Audi(string name)
+        public Subaru(string name)
         {
             Name = name;
         }
-
-        public void SpeedUp() 
+        public void SpeedUp()
         {
             currentSpeed++;
         }
 
-        public void SlowDown() 
+        public void SlowDown()
         {
             currentSpeed--;
         }
 
-        public string ShowCurrentSpeed() 
+        public string ShowCurrentSpeed()
         {
-            return currentSpeed.ToString()+" "+Name;
+            return currentSpeed.ToString() + " " + Name;
         }
 
-        public void StartEngine() 
+        public void StartEngine()
         {
             Console.WriteLine("Rrrrrrr.....");
         }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Persons
 {
@@ -6,10 +7,11 @@ namespace Persons
     {
         static void Main(string[] args)
         {
-            /*
-             * - Create an instant of class Student and an instant of class Employee with proper values for the attributes.
-             * - Display the content of each class using Display() method.
-             */
+            Student student = new Student(3.9, "Markuss", "Sloka", "Jaunsudrabina 3", 1);
+            Employee employee = new Employee("Mechanic", "Gints", "Kuznecovs", "Tauku iela 1", 2);
+
+            student.Display();
+            employee.Display();
         }
     }
 }

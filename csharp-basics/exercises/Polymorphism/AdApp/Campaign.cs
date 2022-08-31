@@ -5,10 +5,12 @@ namespace AdApp
 {
     public class Campaign
     {
+        private string _name;
         private List<Advert> campaign;
 
-        public Campaign() 
+        public Campaign(string name) 
         {
+            _name = name;
             campaign = new List<Advert>();
         }
 
@@ -24,7 +26,7 @@ namespace AdApp
 
         public override string ToString()
         {
-            return "Advert Campaign" + campaign + "\nTotal Cost = "+ GetCost();
+            return "Advert Campaign" + _name + "\nTotal Cost = "+ GetCost();
         }
     }
 }

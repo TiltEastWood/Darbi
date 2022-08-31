@@ -1,9 +1,9 @@
 
-## Exercise #1
+## Exercise #1 Done
 
 See [DragRace](./DragRace.)
 
-## Exercise #2
+## Exercise #2 Done
 
 See [MakeSounds](./MakeSounds)
 
@@ -16,7 +16,7 @@ Create two more classes:
   
 Then add few instances of each type in the list and make sounds while iterating over them.
 
-# Exercise #3
+# Exercise #3 Done
 
 Write C# code to implement the following inheritance hierarchy:
 
@@ -31,7 +31,7 @@ Write a main program that should do the following:
   - Create an instant of class Student and an instant of class Employee with proper values for the attributes.
   - Display the content of each class using display() method.
 
-## Exercise #4
+## Exercise #4 Done
 
 See [Firm](./Firm)
 
@@ -83,7 +83,7 @@ times.
 Create another subclass of Advert, e.g. a Poster, which may have attributes such as dimensions, number
 of copies and cost per copy. Add it in the AdApp.
 
-## Exercise #6
+## Exercise #6 Done
 
 Your task is to create a class hierarchy like the picture below. All the classes except Vegetable, Meat, Mouse,
 Tiger, Cat & Zebra should be abstract.
