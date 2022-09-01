@@ -29,7 +29,7 @@ Add new behaviour to the Product class:
   
 Reflect your changes in a working application.
 
-## Exercise #2
+## Exercise #2 Done
 
 See [FuelConsumptionCalculator](./FuelConsumptionCalculator)
 
